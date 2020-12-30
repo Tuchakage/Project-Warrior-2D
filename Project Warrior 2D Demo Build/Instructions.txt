@@ -1,0 +1,5 @@
+A - Move Left
+D - Move Right
+Space - Jump
+J - Attack
+ESC - Pause Menu
